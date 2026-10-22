@@ -1,0 +1,304 @@
+{
+  "asset": "three original deterministic geometric illustrations; not user art",
+  "profile_count": 3,
+  "asset_count": 3,
+  "human_evaluation": "not conducted",
+  "profiles": {
+    "coastal": [
+      [
+        40,
+        83,
+        96
+      ],
+      [
+        230,
+        155,
+        95
+      ],
+      [
+        245,
+        225,
+        170
+      ]
+    ],
+    "orchid": [
+      [
+        74,
+        53,
+        98
+      ],
+      [
+        199,
+        113,
+        150
+      ],
+      [
+        244,
+        204,
+        183
+      ]
+    ],
+    "forest": [
+      [
+        38,
+        82,
+        61
+      ],
+      [
+        157,
+        181,
+        100
+      ],
+      [
+        230,
+        191,
+        104
+      ]
+    ]
+  },
+  "metrics": [
+    {
+      "asset_id": 0,
+      "profile": "coastal",
+      "method": "none",
+      "palette_distance": 0.08641078841452107,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 1118
+    },
+    {
+      "asset_id": 0,
+      "profile": "coastal",
+      "method": "tint",
+      "palette_distance": 0.11673963262115668,
+      "edge_rmse": 0.04686827133559881,
+      "dimensions_preserved": true,
+      "bytes": 1107
+    },
+    {
+      "asset_id": 0,
+      "profile": "coastal",
+      "method": "palette",
+      "palette_distance": 0.06058786275967485,
+      "edge_rmse": 0.0148362785102802,
+      "dimensions_preserved": true,
+      "bytes": 1112
+    },
+    {
+      "asset_id": 0,
+      "profile": "orchid",
+      "method": "none",
+      "palette_distance": 0.12859132730221323,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 1118
+    },
+    {
+      "asset_id": 0,
+      "profile": "orchid",
+      "method": "tint",
+      "palette_distance": 0.11560832444915546,
+      "edge_rmse": 0.04757944972051926,
+      "dimensions_preserved": true,
+      "bytes": 1106
+    },
+    {
+      "asset_id": 0,
+      "profile": "orchid",
+      "method": "palette",
+      "palette_distance": 0.059386511024738686,
+      "edge_rmse": 0.0259665149767628,
+      "dimensions_preserved": true,
+      "bytes": 1106
+    },
+    {
+      "asset_id": 0,
+      "profile": "forest",
+      "method": "none",
+      "palette_distance": 0.20997466294533665,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 1118
+    },
+    {
+      "asset_id": 0,
+      "profile": "forest",
+      "method": "tint",
+      "palette_distance": 0.14747742772898623,
+      "edge_rmse": 0.04773764102847031,
+      "dimensions_preserved": true,
+      "bytes": 1107
+    },
+    {
+      "asset_id": 0,
+      "profile": "forest",
+      "method": "palette",
+      "palette_distance": 0.05059720060489564,
+      "edge_rmse": 0.051086958814073276,
+      "dimensions_preserved": true,
+      "bytes": 1105
+    },
+    {
+      "asset_id": 1,
+      "profile": "coastal",
+      "method": "none",
+      "palette_distance": 0.1267977331500806,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 755
+    },
+    {
+      "asset_id": 1,
+      "profile": "coastal",
+      "method": "tint",
+      "palette_distance": 0.14384945820362205,
+      "edge_rmse": 0.04560021683947766,
+      "dimensions_preserved": true,
+      "bytes": 755
+    },
+    {
+      "asset_id": 1,
+      "profile": "coastal",
+      "method": "palette",
+      "palette_distance": 0.06315330918037056,
+      "edge_rmse": 0.034491290398038166,
+      "dimensions_preserved": true,
+      "bytes": 753
+    },
+    {
+      "asset_id": 1,
+      "profile": "orchid",
+      "method": "none",
+      "palette_distance": 0.11538372420311549,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 755
+    },
+    {
+      "asset_id": 1,
+      "profile": "orchid",
+      "method": "tint",
+      "palette_distance": 0.1055820614712134,
+      "edge_rmse": 0.04659325168112116,
+      "dimensions_preserved": true,
+      "bytes": 755
+    },
+    {
+      "asset_id": 1,
+      "profile": "orchid",
+      "method": "palette",
+      "palette_distance": 0.06123094073864911,
+      "edge_rmse": 0.027318881321760483,
+      "dimensions_preserved": true,
+      "bytes": 755
+    },
+    {
+      "asset_id": 1,
+      "profile": "forest",
+      "method": "none",
+      "palette_distance": 0.2352161631715187,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 755
+    },
+    {
+      "asset_id": 1,
+      "profile": "forest",
+      "method": "tint",
+      "palette_distance": 0.16918719208832245,
+      "edge_rmse": 0.04609423618185655,
+      "dimensions_preserved": true,
+      "bytes": 757
+    },
+    {
+      "asset_id": 1,
+      "profile": "forest",
+      "method": "palette",
+      "palette_distance": 0.051115346108589865,
+      "edge_rmse": 0.06054278165849098,
+      "dimensions_preserved": true,
+      "bytes": 755
+    },
+    {
+      "asset_id": 2,
+      "profile": "coastal",
+      "method": "none",
+      "palette_distance": 0.11862223592027835,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 952
+    },
+    {
+      "asset_id": 2,
+      "profile": "coastal",
+      "method": "tint",
+      "palette_distance": 0.1370471159403469,
+      "edge_rmse": 0.04501666885251602,
+      "dimensions_preserved": true,
+      "bytes": 946
+    },
+    {
+      "asset_id": 2,
+      "profile": "coastal",
+      "method": "palette",
+      "palette_distance": 0.04673130300177593,
+      "edge_rmse": 0.022821423628462328,
+      "dimensions_preserved": true,
+      "bytes": 943
+    },
+    {
+      "asset_id": 2,
+      "profile": "orchid",
+      "method": "none",
+      "palette_distance": 0.14454741012370642,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 952
+    },
+    {
+      "asset_id": 2,
+      "profile": "orchid",
+      "method": "tint",
+      "palette_distance": 0.1255876027918544,
+      "edge_rmse": 0.04517698800449309,
+      "dimensions_preserved": true,
+      "bytes": 950
+    },
+    {
+      "asset_id": 2,
+      "profile": "orchid",
+      "method": "palette",
+      "palette_distance": 0.04619824325888565,
+      "edge_rmse": 0.02627644313791728,
+      "dimensions_preserved": true,
+      "bytes": 940
+    },
+    {
+      "asset_id": 2,
+      "profile": "forest",
+      "method": "none",
+      "palette_distance": 0.23565766403750518,
+      "edge_rmse": 0.0,
+      "dimensions_preserved": true,
+      "bytes": 952
+    },
+    {
+      "asset_id": 2,
+      "profile": "forest",
+      "method": "tint",
+      "palette_distance": 0.16086887839001532,
+      "edge_rmse": 0.04527109282162119,
+      "dimensions_preserved": true,
+      "bytes": 947
+    },
+    {
+      "asset_id": 2,
+      "profile": "forest",
+      "method": "palette",
+      "palette_distance": 0.04125013721843327,
+      "edge_rmse": 0.04184748467662175,
+      "dimensions_preserved": true,
+      "bytes": 943
+    }
+  ]
+}
